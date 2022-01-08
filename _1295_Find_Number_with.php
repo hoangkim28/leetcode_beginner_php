@@ -12,7 +12,6 @@
     return $even_number;
 }
 $nums = [12,345,2,6,7896];
-print str_split(",",$nums);
 print findNumbers($nums);
 print "\n";
 ?>
